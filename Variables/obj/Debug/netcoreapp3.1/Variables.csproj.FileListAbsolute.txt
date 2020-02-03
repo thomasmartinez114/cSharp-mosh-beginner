@@ -1,0 +1,11 @@
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
