@@ -1,0 +1,11 @@
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\03-primitive-types-and-expressions\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
