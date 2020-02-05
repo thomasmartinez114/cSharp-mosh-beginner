@@ -20,6 +20,17 @@ namespace CSharpFundamentals
             var names = new string[3] { "John", "Jack", "Mary" };
             var formattedNames = string.Join(",", names);
             Console.WriteLine(formattedNames);
+
+            // Using string normally is hard to see
+            // var text = "Hi John\nLook into the following paths\nc:\\folder1\\folder2\nc:\\folder3\\folder4";
+            // Console.WriteLine(text);
+
+            // Use verbatim string
+            var text = @"Hi John
+            Look into the following paths
+            c:\folder1\folder2
+            c:\folder3\folder4";
+            Console.WriteLine(text);
         }
     }
 }
