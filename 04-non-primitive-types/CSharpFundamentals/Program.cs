@@ -17,6 +17,10 @@ namespace CSharpFundamentals
         {
             var method = ShippingMethod.Express;
             Console.WriteLine((int)method);
+
+            // Convert enum from int
+            var methodId = 3;
+            Console.WriteLine((ShippingMethod)methodId);
         }
     }
 }
