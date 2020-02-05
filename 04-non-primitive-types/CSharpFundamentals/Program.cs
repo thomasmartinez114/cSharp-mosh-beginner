@@ -1,13 +1,7 @@
 ﻿using System;
 
-using CSharpFundamentals.Math;
-
 namespace CSharpFundamentals
 {
-    public class Person
-    {
-        public int Age;
-    }
 
     class Program
     {
@@ -26,10 +20,4 @@ namespace CSharpFundamentals
         {
             number += 10;
         }
-
-        public static void MakeOld(Person person)
-        {
-            person.Age += 10;
-        }
     }
-}
