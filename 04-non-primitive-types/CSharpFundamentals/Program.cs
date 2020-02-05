@@ -24,6 +24,10 @@ namespace CSharpFundamentals
 
             // Convert enum to string
             Console.WriteLine(method.ToString());
+
+            // Convert string to enum
+            var methodName = "Express";
+            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
         }
     }
 }
