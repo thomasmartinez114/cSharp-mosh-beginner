@@ -21,6 +21,9 @@ namespace CSharpFundamentals
             // Convert enum from int
             var methodId = 3;
             Console.WriteLine((ShippingMethod)methodId);
+
+            // Convert enum to string
+            Console.WriteLine(method.ToString());
         }
     }
 }
