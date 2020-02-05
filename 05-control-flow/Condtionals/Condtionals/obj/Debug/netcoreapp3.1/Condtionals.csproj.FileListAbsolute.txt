@@ -1,0 +1,11 @@
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\bin\Debug\netcoreapp3.1\Condtionals.exe
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\bin\Debug\netcoreapp3.1\Condtionals.deps.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\bin\Debug\netcoreapp3.1\Condtionals.runtimeconfig.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\bin\Debug\netcoreapp3.1\Condtionals.runtimeconfig.dev.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\bin\Debug\netcoreapp3.1\Condtionals.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\bin\Debug\netcoreapp3.1\Condtionals.pdb
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\obj\Debug\netcoreapp3.1\Condtionals.csprojAssemblyReference.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\obj\Debug\netcoreapp3.1\Condtionals.AssemblyInfoInputs.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\obj\Debug\netcoreapp3.1\Condtionals.AssemblyInfo.cs
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\obj\Debug\netcoreapp3.1\Condtionals.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Condtionals\Condtionals\obj\Debug\netcoreapp3.1\Condtionals.pdb
