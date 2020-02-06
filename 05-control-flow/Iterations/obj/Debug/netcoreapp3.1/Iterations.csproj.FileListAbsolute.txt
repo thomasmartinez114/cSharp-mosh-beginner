@@ -1,0 +1,11 @@
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\bin\Debug\netcoreapp3.1\Iterations.exe
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\bin\Debug\netcoreapp3.1\Iterations.deps.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\bin\Debug\netcoreapp3.1\Iterations.runtimeconfig.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\bin\Debug\netcoreapp3.1\Iterations.runtimeconfig.dev.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\bin\Debug\netcoreapp3.1\Iterations.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\bin\Debug\netcoreapp3.1\Iterations.pdb
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\obj\Debug\netcoreapp3.1\Iterations.csprojAssemblyReference.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\obj\Debug\netcoreapp3.1\Iterations.AssemblyInfoInputs.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\obj\Debug\netcoreapp3.1\Iterations.AssemblyInfo.cs
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\obj\Debug\netcoreapp3.1\Iterations.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\05-control-flow\Iterations\obj\Debug\netcoreapp3.1\Iterations.pdb
