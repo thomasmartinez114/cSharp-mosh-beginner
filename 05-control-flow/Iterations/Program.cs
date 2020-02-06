@@ -7,9 +7,17 @@ namespace Iterations
         static void Main(string[] args)
         {
             var random = new Random();
-            for (var i = 0; i < 10; i++)
-              Console.Write((char)random.Next(97, 122)); //random character a - z
-            Console.WriteLine();
+
+            const int passwordLength = 10;
+
+            // set random characters to 10
+            var buffer = new char[passwordLength];
+            for (var i = 0; i < passwordLength; i++)
+              buffer[i] = (char)('a' + random.Next(0, 26)); //random character a - z
+
+            var password = new string(buffer);
+
+            Console.WriteLine(password);
         }
     }
 }
