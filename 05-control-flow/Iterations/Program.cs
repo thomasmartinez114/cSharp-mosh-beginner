@@ -6,11 +6,17 @@ namespace Iterations
     {
         static void Main(string[] args)
         {
-            var numbers = new int[] { 1, 2, 3, 4 };
-
-            foreach (var number in numbers)
+          while (true)
             {
-                Console.WriteLine(number);
+                Console.Write("Type your name: ");
+                var input = Console.ReadLine();
+
+                // if no entry - break
+                if (String.IsNullOrWhiteSpace(input))
+                    break;
+
+                // echo the name
+                Console.WriteLine("@Echo: " + input);
             }
         }
     }
