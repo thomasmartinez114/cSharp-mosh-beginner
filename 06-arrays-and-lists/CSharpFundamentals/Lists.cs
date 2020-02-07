@@ -13,6 +13,10 @@ namespace CSharpFundamentals
 
             foreach (var number in numbers)
                 Console.WriteLine(number);
+
+            // IndexOf
+            Console.WriteLine();
+            Console.WriteLine("Index of 1: " + numbers.IndexOf(1));
         }
     }
 }
