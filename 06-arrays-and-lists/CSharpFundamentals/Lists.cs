@@ -33,5 +33,9 @@ namespace CSharpFundamentals
             foreach (var number in numbers)
                 Console.WriteLine(number);
 
+            // Clear
+            numbers.Clear();
+            Console.WriteLine(count);
+
     }
 }
