@@ -35,7 +35,8 @@ namespace CSharpFundamentals
 
             // Clear
             numbers.Clear();
-            Console.WriteLine(count);
+            Console.WriteLine(numbers.Count);
 
+        }
     }
 }
