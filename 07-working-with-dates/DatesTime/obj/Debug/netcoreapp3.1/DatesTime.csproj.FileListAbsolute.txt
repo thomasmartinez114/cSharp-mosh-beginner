@@ -1,0 +1,11 @@
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\bin\Debug\netcoreapp3.1\DatesTime.exe
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\bin\Debug\netcoreapp3.1\DatesTime.deps.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\bin\Debug\netcoreapp3.1\DatesTime.runtimeconfig.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\bin\Debug\netcoreapp3.1\DatesTime.runtimeconfig.dev.json
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\bin\Debug\netcoreapp3.1\DatesTime.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\bin\Debug\netcoreapp3.1\DatesTime.pdb
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\obj\Debug\netcoreapp3.1\DatesTime.csprojAssemblyReference.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\obj\Debug\netcoreapp3.1\DatesTime.AssemblyInfoInputs.cache
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\obj\Debug\netcoreapp3.1\DatesTime.AssemblyInfo.cs
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\obj\Debug\netcoreapp3.1\DatesTime.dll
+C:\Users\batman\Projects\tutorials\csharp-prep\mosh\beginner\07-working-with-dates\DatesTime\obj\Debug\netcoreapp3.1\DatesTime.pdb
