@@ -25,6 +25,7 @@ namespace DatesTime
             Console.WriteLine(now.ToLongTimeString()); // 6:46:33 PM
             Console.WriteLine(now.ToShortTimeString()); // 6:46 PM
             Console.WriteLine(now.ToString()); // date and time
+            Console.WriteLine(now.ToString("yyyy-MM-dd HH:mm"));
             
         }
     }
