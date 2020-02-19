@@ -1,0 +1,6 @@
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
