@@ -33,6 +33,10 @@ namespace CSharpFundamentals
             var str = "25";
             var age = Convert.ToByte(str);
             Console.WriteLine(age);
+
+            // Convert # to str
+            float price = 29.95f;
+            Console.WriteLine(price.ToString("C"));
         }
     }
 }
