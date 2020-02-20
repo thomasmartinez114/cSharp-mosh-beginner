@@ -25,6 +25,9 @@ namespace CSharpFundamentals
             Console.WriteLine("LastName: " + names[1]);
 
             Console.WriteLine(fullName.Replace("Thomas", "Thomasito"));
+
+            if (String.IsNullOrWhiteSpace(" "))
+                Console.WriteLine("Invalid");
         }
     }
 }
