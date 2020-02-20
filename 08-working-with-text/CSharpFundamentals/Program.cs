@@ -12,6 +12,7 @@ namespace CSharpFundamentals
         {
             var fullName = "Thomas Martinez ";
             Console.WriteLine("Trim: '{0}'", fullName.Trim());
+            Console.WriteLine("Trim: '{0}'", fullName.Trim().ToUpper());
         }
     }
 }
