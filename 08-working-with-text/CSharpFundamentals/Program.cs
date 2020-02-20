@@ -28,6 +28,11 @@ namespace CSharpFundamentals
 
             if (String.IsNullOrWhiteSpace(" "))
                 Console.WriteLine("Invalid");
+
+            // Convert str to #s
+            var str = "25";
+            var age = Convert.ToByte(str);
+            Console.WriteLine(age);
         }
     }
 }
