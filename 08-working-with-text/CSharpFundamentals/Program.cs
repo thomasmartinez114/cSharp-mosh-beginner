@@ -36,7 +36,7 @@ namespace CSharpFundamentals
 
             // Convert # to str
             float price = 29.95f;
-            Console.WriteLine(price.ToString("C"));
+            Console.WriteLine(price.ToString("C0"));
         }
     }
 }
