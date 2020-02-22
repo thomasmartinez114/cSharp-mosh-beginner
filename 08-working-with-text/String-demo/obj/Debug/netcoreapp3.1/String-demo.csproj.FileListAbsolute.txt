@@ -1,0 +1,11 @@
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\bin\Debug\netcoreapp3.1\String-demo.exe
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\bin\Debug\netcoreapp3.1\String-demo.deps.json
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\bin\Debug\netcoreapp3.1\String-demo.runtimeconfig.json
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\bin\Debug\netcoreapp3.1\String-demo.runtimeconfig.dev.json
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\bin\Debug\netcoreapp3.1\String-demo.dll
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\bin\Debug\netcoreapp3.1\String-demo.pdb
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\obj\Debug\netcoreapp3.1\String-demo.csprojAssemblyReference.cache
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\obj\Debug\netcoreapp3.1\String-demo.AssemblyInfoInputs.cache
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\obj\Debug\netcoreapp3.1\String-demo.AssemblyInfo.cs
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\obj\Debug\netcoreapp3.1\String-demo.dll
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\String-demo\obj\Debug\netcoreapp3.1\String-demo.pdb
