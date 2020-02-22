@@ -9,6 +9,10 @@ namespace String_demo
         {
             var builder = new StringBuilder();
             builder.Append('-', 10);
+            builder.AppendLine();
+            builder.Append("Header");
+            builder.AppendLine();
+            builder.Append('-', 10);
             Console.WriteLine(builder);
         }
     }
