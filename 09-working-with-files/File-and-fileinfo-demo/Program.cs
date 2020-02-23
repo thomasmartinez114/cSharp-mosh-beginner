@@ -11,6 +11,10 @@ namespace File_and_fileinfo_demo
 
             File.Copy(@"c:\temp\myfile.jpg", "d:\temp\myfile.jpg", true);
             File.Delete(path);
+            if (File.Exists(path))
+            {
+                // do something
+            }
         }
     }
 }
