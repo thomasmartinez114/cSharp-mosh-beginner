@@ -15,6 +15,7 @@ namespace File_and_fileinfo_demo
             {
                 // do something
             }
+            var content = File.ReadAllText(path);
         }
     }
 }
