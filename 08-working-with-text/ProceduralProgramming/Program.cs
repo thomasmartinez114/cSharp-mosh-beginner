@@ -18,9 +18,7 @@ namespace ProceduralProgramming
             for (var i = name.Length; i > 0; i--)
                 array[name.Length - i] =[i - 1];
 
-            var reversed = new string(array);
-
-            return reversed:
+            return new string(array);
         }
     }
 }
