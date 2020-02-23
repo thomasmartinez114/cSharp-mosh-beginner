@@ -1,0 +1,3 @@
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.csprojAssemblyReference.cache
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.AssemblyInfoInputs.cache
+C:\CareerDevs\github\c++\mosh-01-beginner\08-working-with-text\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.AssemblyInfo.cs
